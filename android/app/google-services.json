@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180304313448",
+    "project_id": "agentic-mafiagame",
+    "storage_bucket": "agentic-mafiagame.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180304313448:android:61003403e69babb4fb4fdd",
+        "android_client_info": {
+          "package_name": "com.agenticmafiagame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm5XHj0oBsPPoAKdt6N_rn_aaJMU8sbM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
